@@ -1,0 +1,54 @@
+C:\Users\kimbe\OneDrive\Documents\Visual Studio 2017\Projects\MJC_InputNText\MJC_InputNText\bin\Windows\x86\Debug\MJC_InputNText.exe
+C:\Users\kimbe\OneDrive\Documents\Visual Studio 2017\Projects\MJC_InputNText\MJC_InputNText\bin\Windows\x86\Debug\MJC_InputNText.pdb
+C:\Users\kimbe\OneDrive\Documents\Visual Studio 2017\Projects\MJC_InputNText\MJC_InputNText\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\kimbe\OneDrive\Documents\Visual Studio 2017\Projects\MJC_InputNText\MJC_InputNText\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\kimbe\OneDrive\Documents\Visual Studio 2017\Projects\MJC_InputNText\MJC_InputNText\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\kimbe\OneDrive\Documents\Visual Studio 2017\Projects\MJC_InputNText\MJC_InputNText\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\kimbe\OneDrive\Documents\Visual Studio 2017\Projects\MJC_InputNText\MJC_InputNText\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\kimbe\OneDrive\Documents\Visual Studio 2017\Projects\MJC_InputNText\MJC_InputNText\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\kimbe\OneDrive\Documents\Visual Studio 2017\Projects\MJC_InputNText\MJC_InputNText\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\kimbe\OneDrive\Documents\Visual Studio 2017\Projects\MJC_InputNText\MJC_InputNText\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\kimbe\OneDrive\Documents\Visual Studio 2017\Projects\MJC_InputNText\MJC_InputNText\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\kimbe\OneDrive\Documents\Visual Studio 2017\Projects\MJC_InputNText\MJC_InputNText\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\kimbe\OneDrive\Documents\Visual Studio 2017\Projects\MJC_InputNText\MJC_InputNText\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\kimbe\OneDrive\Documents\Visual Studio 2017\Projects\MJC_InputNText\MJC_InputNText\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\kimbe\OneDrive\Documents\Visual Studio 2017\Projects\MJC_InputNText\MJC_InputNText\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\kimbe\OneDrive\Documents\Visual Studio 2017\Projects\MJC_InputNText\MJC_InputNText\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\kimbe\OneDrive\Documents\Visual Studio 2017\Projects\MJC_InputNText\MJC_InputNText\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\kimbe\OneDrive\Documents\Visual Studio 2017\Projects\MJC_InputNText\MJC_InputNText\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\kimbe\OneDrive\Documents\Visual Studio 2017\Projects\MJC_InputNText\MJC_InputNText\obj\x86\Debug\MJC_InputNText.csprojAssemblyReference.cache
+C:\Users\kimbe\OneDrive\Documents\Visual Studio 2017\Projects\MJC_InputNText\MJC_InputNText\obj\x86\Debug\MJC_InputNText.csproj.CoreCompileInputs.cache
+C:\Users\kimbe\OneDrive\Documents\Visual Studio 2017\Projects\MJC_InputNText\MJC_InputNText\obj\x86\Debug\MJC_InputNText.csproj.CopyComplete
+C:\Users\kimbe\OneDrive\Documents\Visual Studio 2017\Projects\MJC_InputNText\MJC_InputNText\obj\x86\Debug\MJC_InputNText.exe
+C:\Users\kimbe\OneDrive\Documents\Visual Studio 2017\Projects\MJC_InputNText\MJC_InputNText\obj\x86\Debug\MJC_InputNText.pdb
+C:\Users\kimbe\OneDrive\Documents\Visual Studio 2017\Projects\MJC_InputNText\MJC_InputNText\bin\Windows\x86\Debug\Content\bones.xnb
+C:\Users\kimbe\OneDrive\Documents\Visual Studio 2017\Projects\MJC_InputNText\MJC_InputNText\bin\Windows\x86\Debug\Content\SampleText12.xnb
+C:\Users\kimbe\OneDrive\Documents\Visual Studio 2017\Projects\MJC_InputNText\MJC_InputNText\bin\Windows\x86\Debug\Content\SampleText48.xnb
+C:\Users\kimbe\OneDrive\Documents\Visual Studio 2017\Projects\MJC_InputNText\MJC_InputNText\bin\Windows\x86\Debug\Content\SampleText18.xnb
+C:\Users\kimbe\Source\Repos\MJC_InputNText\MJC_InputNText\bin\Windows\x86\Debug\Content\SampleText12.xnb
+C:\Users\kimbe\Source\Repos\MJC_InputNText\MJC_InputNText\bin\Windows\x86\Debug\Content\SampleText48.xnb
+C:\Users\kimbe\Source\Repos\MJC_InputNText\MJC_InputNText\bin\Windows\x86\Debug\Content\bones.xnb
+C:\Users\kimbe\Source\Repos\MJC_InputNText\MJC_InputNText\bin\Windows\x86\Debug\Content\SampleText18.xnb
+C:\Users\kimbe\Source\Repos\MJC_InputNText\MJC_InputNText\bin\Windows\x86\Debug\MJC_InputNText.exe
+C:\Users\kimbe\Source\Repos\MJC_InputNText\MJC_InputNText\bin\Windows\x86\Debug\MJC_InputNText.pdb
+C:\Users\kimbe\Source\Repos\MJC_InputNText\MJC_InputNText\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\kimbe\Source\Repos\MJC_InputNText\MJC_InputNText\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\kimbe\Source\Repos\MJC_InputNText\MJC_InputNText\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\kimbe\Source\Repos\MJC_InputNText\MJC_InputNText\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\kimbe\Source\Repos\MJC_InputNText\MJC_InputNText\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\kimbe\Source\Repos\MJC_InputNText\MJC_InputNText\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\kimbe\Source\Repos\MJC_InputNText\MJC_InputNText\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\kimbe\Source\Repos\MJC_InputNText\MJC_InputNText\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\kimbe\Source\Repos\MJC_InputNText\MJC_InputNText\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\kimbe\Source\Repos\MJC_InputNText\MJC_InputNText\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\kimbe\Source\Repos\MJC_InputNText\MJC_InputNText\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\kimbe\Source\Repos\MJC_InputNText\MJC_InputNText\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\kimbe\Source\Repos\MJC_InputNText\MJC_InputNText\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\kimbe\Source\Repos\MJC_InputNText\MJC_InputNText\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\kimbe\Source\Repos\MJC_InputNText\MJC_InputNText\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\kimbe\Source\Repos\MJC_InputNText\MJC_InputNText\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\kimbe\Source\Repos\MJC_InputNText\MJC_InputNText\obj\x86\Debug\MJC_InputNText.csprojAssemblyReference.cache
+C:\Users\kimbe\Source\Repos\MJC_InputNText\MJC_InputNText\obj\x86\Debug\MJC_InputNText.csproj.CoreCompileInputs.cache
+C:\Users\kimbe\Source\Repos\MJC_InputNText\MJC_InputNText\obj\x86\Debug\MJC_InputNText.csproj.CopyComplete
+C:\Users\kimbe\Source\Repos\MJC_InputNText\MJC_InputNText\obj\x86\Debug\MJC_InputNText.exe
+C:\Users\kimbe\Source\Repos\MJC_InputNText\MJC_InputNText\obj\x86\Debug\MJC_InputNText.pdb

@@ -1,0 +1,3 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/kimbe/Source/Repos/MJC_InputNText/MJC_InputNText/Content/bones.png","C:/Users/kimbe/Source/Repos/MJC_InputNText/MJC_InputNText/Content/bin/Windows/Content/bones.xnb","TextureProcessor","Texture2DContent",25117,640085,0.2732429
+"C:/Users/kimbe/Source/Repos/MJC_InputNText/MJC_InputNText/Content/SampleText18.spritefont","C:/Users/kimbe/Source/Repos/MJC_InputNText/MJC_InputNText/Content/bin/Windows/Content/SampleText18.xnb","FontDescriptionProcessor","SpriteFontContent",2005,37905,0.4579537

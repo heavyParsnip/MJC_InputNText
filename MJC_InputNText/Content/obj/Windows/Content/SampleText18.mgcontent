@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/kimbe/Source/Repos/MJC_InputNText/MJC_InputNText/Content/SampleText18.spritefont</SourceFile>
+  <SourceTime>2019-09-10T18:39:39.8986101-04:00</SourceTime>
+  <DestFile>C:/Users/kimbe/Source/Repos/MJC_InputNText/MJC_InputNText/Content/bin/Windows/Content/SampleText18.xnb</DestFile>
+  <DestTime>2019-09-11T12:14:22.1483042-04:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2018-12-08T11:35:54-05:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2018-12-08T11:35:54-05:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
